@@ -6,7 +6,7 @@
     "@chakra-ui/core": "0.8.0",
     "@emotion/core": "10.0.35",
     "@emotion/styled": "10.0.27",
-    "@testing-library/jest-dom": "5.11.4",
+    "@testing-library/jest-dom": "5.11.5",
     "@testing-library/user-event": "12.1.10",
     "@testing-library/react": "11.1.0",
     "emotion-theming": "10.0.27",
@@ -29,7 +29,7 @@
     "husky": "4.3.0",
     "@testing-library/react": "11.1.0",
     "@testing-library/react-hooks": "3.4.2",
-    "@testing-library/jest-dom": "5.11.4"
+    "@testing-library/jest-dom": "5.11.5"
   },
   "scripts": {
     "start": "react-scripts start",
